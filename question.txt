@@ -1,0 +1,8 @@
+Amanda has a movie theatre where you can choose the teather.genre of the movie, such as horror, romance, comedy, and action.
+Each teather.genre has a different ticket price. Help Amanda to create the system.
+
+// Class
+teather.genre.Genre
+    -> Horror, Romance, Comedy, Action
+
+teather.Ticket
